@@ -1,0 +1,8 @@
+{
+    "name": "wyphp",
+    "description": "just a framework for php",
+    "require": {
+        "php": ">=7.1",
+        "another-vendor/package": "1.*"
+    }
+}
