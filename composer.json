@@ -1,8 +1,19 @@
 {
-    "name": "wyphp",
-    "description": "just a framework for php",
+    "name": "wysoft/wy",
+    "type": "library",
+    "description": "just a rubbish framework for php",
+    "keywords": ["rubbish"],
+    "homepage": "https://github.com/WytheWu/WY",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "WytheWu",
+            "email": "wythewu_work@126.com",
+            "homepage": "https://github.com/WytheWu",
+            "role": "Developer"
+        }
+    ],
     "require": {
-        "php": ">=7.1",
-        "another-vendor/package": "1.*"
+        "php": ">=5.4.0"
     }
 }
